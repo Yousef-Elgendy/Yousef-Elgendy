@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?style=flat&logo=x&logoColor=white&labelColor=black"/></a>
   <a href="https://hashnode.com/@Yousef-Elgendy">
     <img src="https://img.shields.io/badge/hashnode-%232962FF?style=flat&logo=hashnode&logoColor=white&labelColor=%232962FF"/></a>
+  <a href="https://www.goodreads.com/user/show/174598465-yousef-elgendy">
+    <img src="https://img.shields.io/badge/goodreads-%23847D6C?style=flat&logo=goodreads&logoColor=white&labelColor=%23847D6C"/></a>
+
   </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yousef-Elgendy&label=Profile%20views&color=0e75b6&style=flat" alt="Yousef-Elgendy" /> </p>
 
