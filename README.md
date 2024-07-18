@@ -15,7 +15,7 @@
   </p>
 
 
-- 📫 How to reach me **YousefElgendy.contact@gmail.com**
+- 📫  Reach me formally at :  **YousefElgendy.contact@gmail.com**
 
 ### Problem Solving Profiles :
 <a href="https://codeforces.com/profile/Yousef-Elgendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Yousef-Elgendy" height="35" width="40" /></a>
